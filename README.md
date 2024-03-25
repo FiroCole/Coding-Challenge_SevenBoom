@@ -16,6 +16,7 @@ Iteration using loops
 Conditional logic with ternary expressions
 Utilization of array methods (includes() or some())
 Regular expressions (optional, depending on the implementation)
+
 Logic:
 Define a function sevenBoom that takes an array arr as its parameter.
 Use array methods or loops to iterate through each element in the array.
@@ -25,8 +26,8 @@ If the digit 7 is not found in any of the elements, return "there is no 7 in the
 
 Example Usage:
 
-sevenBoom([1, 2, 3, 4, 5, 6, 7]); // Returns "Boom!"
-sevenBoom([8, 6, 33, 100]); // Returns "there is no 7 in the array"
+sevenBoom([8, 6, 33, 100]); // Returns "there is no 7 in the array" 
+
 sevenBoom([2, 55, 60, 97, 86]); // Returns "Boom!"
 
 

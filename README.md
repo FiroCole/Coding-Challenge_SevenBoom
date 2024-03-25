@@ -1,47 +1,44 @@
-Challenge: Seven Boom!
-This coding challenge, sourced from Edabit, is of moderate difficulty and tests fundamental skills in JavaScript programming.
+<div id="header" align="center">
+  <img src="https://live.staticflickr.com/65535/53611225928_94d7cafb16.jpg" width="500" height="500">
+</div>
 
-Difficulty Level:
-Moderate
+<div id="description" align="center">
 
-Source:
-This challenge can be found on Edabit.
-
-Objective:
-The objective of this challenge is to create a function that takes an array of numbers and returns "Boom!" if the digit 7 appears in any of the numbers within the array. If the digit 7 is not found in any of the numbers, the function returns "there is no 7 in the array".
-
-Techniques Used:
-Array manipulation
-Iteration using loops
-Conditional logic with ternary expressions
-Utilization of array methods (includes() or some())
-Regular expressions (optional, depending on the implementation)
-
-Logic:
-Define a function sevenBoom that takes an array arr as its parameter.
-Use array methods or loops to iterate through each element in the array.
-For each element, check if it contains the digit 7.
-If the digit 7 is found in any of the elements, return "Boom!".
-If the digit 7 is not found in any of the elements, return "there is no 7 in the array".
-
-Example Usage:
-
-sevenBoom([8, 6, 33, 100]); // Returns "there is no 7 in the array" 
-
-sevenBoom([2, 55, 60, 97, 86]); // Returns "Boom!"
+# :white_check_mark: Seven Boom! :white_check_mark:
 
 
-Conclusion:
-This coding challenge tests proficiency in JavaScript fundamentals such as array manipulation, loops, conditional logic, and familiarity with array methods. It provides an opportunity to demonstrate problem-solving skills and understanding of basic programming techniques.
 
-Keywords:
-JavaScript
-Coding Challenge
-Arrays
-Loops
-Ternary Expressions
-Array Methods
-Regular Expressions
-Problem Solving
-Logic
-Algorithm
+##### Firo Cole
+
+[![LinkedIn Badge](https://img.shields.io/badge/-@firocolemd-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/firocolemd/)
+
+  ## :pencil: Challenge Overview
+This coding challenge, sourced from Edabit, is of hard difficulty level.The objective of this challenge is to create a function that takes an array of numbers and returns "Boom!" if the digit 7 appears in any of the numbers within the array. If the digit 7 is not found in any of the numbers, the function returns "there is no 7 in the array".
+
+</div>
+
+
+
+
+## :computer: Technologies Used
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![VSCode](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visualstudio)
+
+
+
+
+## :white_check_mark: Solution Overview
+
+In my solution, I employed the following techniques:
+
+- Array manipulation
+- Iteration using loops
+- Conditional logic with ternary expressions
+- Utilization of array methods (includes() or some())
+- Regular expressions (optional, depending on the implementation)
+
+
